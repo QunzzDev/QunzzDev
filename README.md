@@ -4,7 +4,7 @@
 **QunzzDev/QunzzDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
-👋 Hello, I'm [Bùi Đình Quân]<br><br>🌟 About Me<br>- 📍 From: Thái Bình , Việt Nam<br>- 🎂 Age: [20]<br>- 💻 Beginner Developer / Student<br>- 🎵 Love music, gaming and coding<br>- 🚀 Learning new things every day<br><br>---<br><br> - Website : Vieture.Tech | VieTure.Cloud 
+👋 Hello, I'm [Bùi Đình Quân]<br><br>🌟 About Me<br>- 📍 From: Thái Bình , Việt Nam<br>- 🎂 Age: [20]<br>- 💻 Beginner Developer / Student<br>- 🎵 Love music, gaming and coding<br>- 🚀 Learning new things every day<br><br>---<br><br>- Website : Vieture.Tech | VieTure.Cloud 
 
 
 ## 🌐 Socials:
