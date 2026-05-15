@@ -1,10 +1,10 @@
 # 💫 About Me<br><br>
-👋 Hello, I'm Bùi Đình Quân<br><br>
-📌 From: Thái Bình, Việt Nam<br><br>
-🎂 Age : 20<br><br>
+👋 Hello, I'm Bùi Đình Quân<br>
+📌 From: Thái Bình, Việt Nam<br>
+🎂 Age : 20<br>
 💻 FullStack Developer<br>
-🎵 Love Music, Gaming An Coding<br><br>
-🚀 Learning New Thing Every Day<br><br>
+🎵 Love Music, Gaming An Coding<br>
+🚀 Learning New Thing Every Day<br>
 🌐 VieTure.Tech | VieTure.Cloud
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MHSsHMHGJ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quannhodev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vanquan_2k) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vanquan_2k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vieturegroup@gmail.com) 
